@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CurrencyManager</string>
+
+    <!--Строки фрагмента конвертора валют-->
+    <string name="converter_name">Конвертер валют</string>
+    <string name="converter_convert">Конвертировать</string>
+    <string name="converter_cancel">Отменить</string>
+    <string name="rubles_code">RUB</string>
+
+    <!--Строки элемента menu-->
+    <string name="menu_refresh">Обновить</string>
+
+    <string name="list_date">Курс валют за:</string>
+
+    <!--Строки ошибок-->
+    <string name="error_get_currencies">Ошибка при попытке получить список валют.</string>
+    <string name="error_get_currencies_connection">Не удалось получить список валют, проверьте свое соединение.</string>
+    <string name="error_converter_parse">Проверьте правильность введенного числа.</string>
+    <string name="error_converter_empty">Сначала введите число.</string>
+
+</resources>
